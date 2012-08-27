@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Menu/Controllers/ScanViewController.mm \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Menu/Controllers/ScanViewController.h \
+  ../Libraries/ZXing/iphone/ZXingWidget/Classes/ZXingWidgetController.h \
+  ../Libraries/ZXing/iphone/ZXingWidget/Classes/Decoder.h \
+  ../Libraries/ZXing/iphone/ZXingWidget/Classes/DecoderDelegate.h \
+  ../Libraries/ZXing/iphone/ZXingWidget/Classes/parsedResults/ParsedResult.h \
+  ../Libraries/ZXing/iphone/ZXingWidget/Classes/OverlayView.h \
+  ../Libraries/ZXing/iphone/ZXingWidget/Classes/QRCodeReader.h \
+  ../Libraries/ZXing/iphone/ZXingWidget/Classes/FormatReader.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/common/Counted.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/Result.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/common/Array.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/common/Str.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/ResultPoint.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/BarcodeFormat.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/BinaryBitmap.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/common/BitMatrix.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/common/BitArray.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/common/IllegalArgumentException.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/Exception.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/Binarizer.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/LuminanceSource.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/Reader.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/DecodeHints.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/../Libraries/ZXing/cpp/core/src/zxing/ResultPointCallback.h

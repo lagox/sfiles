@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/FilterValue.m \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Entities.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Portion.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Order.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Session.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Table.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Visitor.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Basket.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/SubSession.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Dish.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/MenuCategory.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/FilterType.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/FilterValue.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/DishFilterValue.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/CategoryFilterType.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Waiter.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/CommentTemplate.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/OrderComment.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/RegisteredVisitor.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Invite.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/WaiterNotification.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/Event.h \
+  /Users/yerlankussainov/Projects/citysoft/trunk/Pectopatop/Shared/Entities/UnitType.h
